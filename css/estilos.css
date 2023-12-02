@@ -1,6 +1,18 @@
 body{
   text-align: center;
   font-family: "Arial";
-  color: blue;
+  color: gray;
 
+}
+#container1{
+  border:1px solid black;
+  margin: 0 auto;  
+  padding: 1em;
+  text-align: left;
+  width: 70%;
+
+}
+#container1 h1{
+  font-size: 20px;
+  color: blue;
 }

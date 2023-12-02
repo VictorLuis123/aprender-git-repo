@@ -16,3 +16,11 @@ body{
   font-size: 20px;
   color: blue;
 }
+#cabecera{
+  font-size: 25px;
+  color:cyan;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  
+
+}

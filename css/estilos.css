@@ -17,8 +17,11 @@ body{
   color: blue;
 }
 #cabecera{
+  
+  box-shadow: 5px 5px 5px black;
   font-size: 25px;
   color:cyan;
+  background-color: blue;;
   font-family: Georgia, 'Times New Roman', Times, serif;
   text-align: center;
   
